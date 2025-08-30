@@ -1,0 +1,39 @@
+{
+  "name": "FlyTalk",
+  "short_name": "FlyTalk",
+  "description": "Simulador de fraseologia aeronáutica entre piloto e controlador.",
+  "lang": "pt-BR",
+  "start_url": "/flytalk/",
+  "scope": "/flytalk/",
+  "display": "fullscreen",
+  "background_color": "#432dd7",
+  "theme_color": "#432dd7",
+  "orientation": "portrait",
+ "icons": [
+    {
+      "src": "/flytalk/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/flytalk/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/flytalk/icons/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/flytalk/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+
+  ],
+  "id": "/flytalk/",
+  "prefer_related_applications": false 
+}
